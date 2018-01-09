@@ -10,7 +10,7 @@ Record reading list.
 
 技术类
 
-非技术类
+非技术
 
 ## 2017
 
